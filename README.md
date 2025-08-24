@@ -79,16 +79,6 @@ Custom drivers for servo control, sensors, and Zigbee
 
 Machine Learning integration (optional AI decision-making layer)
 
-⚙️ Installation & Usage
-
-Clone the repository:
-
-git clone https://github.com/YourUsername/MultipurposeFlightController.git
-cd MultipurposeFlightController
-
-
-Open the firmware in Arduino IDE / PlatformIO.
-
 Connect hardware:
 
 Servo motors to PWM headers
@@ -99,7 +89,7 @@ Zigbee module via SPI/UART
 
 GPS to UART
 
-Upload firmware and test stabilization / sensor readings.
+Upload firmware and test stabilization/sensor readings.
 
 📊 Results & Applications
 
