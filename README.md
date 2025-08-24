@@ -12,7 +12,7 @@ Supports multiple peripherals
 
 Integrates sensors & communication modules
 
-Is easy to program and expand
+It is easy to program and expand
 
 💡 Our Solution
 
@@ -28,7 +28,7 @@ Enables IoT integration and AI-based decision-making
 
 🚀 Features
 
-✅ High-performance MCU (NXP i.MXRT / STM32 / ESP32-based [👉 confirm])
+✅ High-performance MCU (Teenesy board )
 
 ✅ 6–8 servo motor control (PWM outputs)
 
@@ -51,16 +51,6 @@ Enables IoT integration and AI-based decision-making
         Actuators (Motors, Servos, Terminal Blocks)
                        ↓
         Communication (Zigbee, USB, IoT Platform)
-<img width="1065" height="750" alt="Screenshot 2025-08-24 124227" src="https://github.com/user-attachments/assets/629dcefa-8ead-408a-a455-c8d13f865dd6" />
-
-<img width="487" height="640" alt="Screenshot 2025-08-24 124248" src="https://github.com/user-attachments/assets/9bd407b0-bb0a-41ed-8ba5-fab86239f5ce" />
-
-
-
-🛠️ Hardware Design
-<img width="853" height="739" alt="Screenshot 2025-08-24 124322" src="https://github.com/user-attachments/assets/e52b6478-6a7f-42cf-8e39-fca3dec37945" />
-
-<img width="739" height="743" alt="Screenshot 2025-08-24 124340" src="https://github.com/user-attachments/assets/e4ea728e-baf7-4cc1-8d8f-86728c3562e2" />
 
 MCU: [👉 confirm exact chip, e.g., NXP i.MXRT1062 or HC32F4A0]
 
@@ -72,7 +62,15 @@ Outputs: 6–7 servo motor headers, MOSFET-driven terminal blocks
 
 Power: USB-powered with regulated 3.3V & 5V outputs
 
-📷 (Insert PCB 3D render & schematic here)
+<img width="1086" height="762" alt="Screenshot 2025-08-24 130033" src="https://github.com/user-attachments/assets/38b95585-0cfc-4578-aafa-41d7735f81f1" />
+<img width="1083" height="764" alt="Screenshot 2025-08-24 130020" src="https://github.com/user-attachments/assets/2591fc62-b60b-4c5d-81c2-ee2234db20a4" />
+<img width="1077" height="757" alt="Screenshot 2025-08-24 130005" src="https://github.com/user-attachments/assets/3c2fb4dc-0cfe-41c8-ba68-ef80ed40da29" />
+<img width="1053" height="576" alt="Screenshot 2025-08-24 125950" src="https://github.com/user-attachments/assets/4b005380-8c98-416f-9c9c-fa2aa8df2e8b" />
+<img width="1110" height="738" alt="Screenshot 2025-08-24 125937" src="https://github.com/user-attachments/assets/81148916-903a-4be1-aeb9-f8381524241b" />
+<img width="1267" height="812" alt="Screenshot 2025-08-24 130231" src="https://github.com/user-attachments/assets/187a81de-da21-4fcf-be73-116559d81be3" />
+<img width="590" height="648" alt="Screenshot 2025-08-24 130126" src="https://github.com/user-attachments/assets/0db39d81-9218-468f-9657-5ffe1fed6b7d" />
+<img width="1091" height="779" alt="Screenshot 2025-08-24 130049" src="https://github.com/user-attachments/assets/ef12222b-d364-4ac9-acc9-560e18123db5" />
+
 
 🤖 Software Support
 
@@ -94,7 +92,7 @@ Zigbee module via SPI/UART
 
 GPS to UART
 
-Upload firmware and test stabilization/sensor readings.
+
 
 📊 Results & Applications
 
@@ -112,7 +110,6 @@ Robotics projects
 
 Research & Education
 
-📷 (Insert hardware testing images here)
 
 🔮 Future Work
 
@@ -127,4 +124,3 @@ Open-source community contribution
 👥 Contributors
 
 Fabiola Ingabire – Project Lead & PCB Designer
-Ipyana Mwaisekwa- Team Leader 
