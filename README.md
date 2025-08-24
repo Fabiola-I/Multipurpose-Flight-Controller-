@@ -51,11 +51,16 @@ Enables IoT integration and AI-based decision-making
         Actuators (Motors, Servos, Terminal Blocks)
                        ↓
         Communication (Zigbee, USB, IoT Platform)
+<img width="1065" height="750" alt="Screenshot 2025-08-24 124227" src="https://github.com/user-attachments/assets/629dcefa-8ead-408a-a455-c8d13f865dd6" />
+
+<img width="487" height="640" alt="Screenshot 2025-08-24 124248" src="https://github.com/user-attachments/assets/9bd407b0-bb0a-41ed-8ba5-fab86239f5ce" />
 
 
-📷 (Insert PCB block diagram / schematic image here)
 
 🛠️ Hardware Design
+<img width="853" height="739" alt="Screenshot 2025-08-24 124322" src="https://github.com/user-attachments/assets/e52b6478-6a7f-42cf-8e39-fca3dec37945" />
+
+<img width="739" height="743" alt="Screenshot 2025-08-24 124340" src="https://github.com/user-attachments/assets/e4ea728e-baf7-4cc1-8d8f-86728c3562e2" />
 
 MCU: [👉 confirm exact chip, e.g., NXP i.MXRT1062 or HC32F4A0]
 
